@@ -1,5 +1,5 @@
 ## Citymuseum
-Schoolprojekt. 
+Schoolprocekt. 
 Made to understand CSS grid and flex
 
 ## GitHub Pages
