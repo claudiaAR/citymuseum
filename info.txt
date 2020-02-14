@@ -1,0 +1,17 @@
+Claudia & Pontus
+Vi har valt göteborgs stadsmuseums hemsida.
+Förstasidan: https://goteborgsstadsmuseum.se/
+Utställningsida: https://goteborgsstadsmuseum.se/utstallningar
+
+Vi har försökt göra en mer inbjudande första sida och försökt förtydliga 
+vad museet har för aktiviteter "program" som man kan del av.
+
+Sen har vi även arbetat med sidans footer, bakat in footern med socialamedier fältet som 
+satt separat på orinalsidan men även där försökt förtydliga att museet även har en utställning 
+på ängården och hem i haga. Även gjort öppetiderna mer synlig samt lagt press, kontakt, om oss & skola 
+i ett eget fält.
+
+På utställningar sidan har vi jobbat med presentationen av utsällningarna.
+
+
+Animationer finns på läs mer "länkarna" och bakgrund för permanenta utställningar. 

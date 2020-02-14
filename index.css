@@ -1,0 +1,45 @@
+.parallax {
+    background-image: url("/bilder/1600-talsbilden_utan_text_1.jpg");
+    height: 45rem;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.rubrik {
+    padding: 2rem;
+    background: whitesmoke;
+  }
+   
+  .aktivitet-wrapper {
+    width: 100vw;
+    display: flex;
+    overflow-x: auto;
+  }
+   
+  .aktivitet-wrapper > div {
+    width: 20rem;
+    flex-basis: 20em;
+  }
+   
+  .akt1 {
+    min-width: 21rem;
+   
+  }
+   
+  .akt1_text_1 {
+    min-width: 20rem;
+    padding:2rem;
+    background:#F5F2F0;
+  }
+
+  .akt1_text_2 {
+    min-width: 20rem;
+    padding:2rem;
+    background:#fee5a5;
+  }
+
+
+
+  
